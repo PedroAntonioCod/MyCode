@@ -1,0 +1,6 @@
+<?php
+require_once'cachorro.php';
+$ravena = new cachorro("rottweiler");
+$ravena->latir();
+$ravena->comer();
+?>
